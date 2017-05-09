@@ -63,7 +63,7 @@ div.nav div.tab-content{
 	position:absolute;
 	left:5px;
 	height:605px;
-	overflow-y:scroll;
+	
 	margin-top:10px;
 	width:100%;
 
@@ -79,7 +79,7 @@ div.nav li > input:checked ~ div.tab-content{
 div.table1 table{
 	width:85%;
 	margin:auto;
-	padding:10px;
+	padding:5px;
 }
 div.table1 table tr td img {
 	width: 350px;
@@ -105,7 +105,7 @@ div.tab-content div.table1 table tr td a:hover{
 	opacity: 0.5;
 }
 div.social div.icons{
-	position: absolute;
+	position: fixed;
 	left: 10px;
 	bottom:0px;
 	width:98%;
