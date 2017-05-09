@@ -85,10 +85,9 @@ div.table1 table{
 div.table1 table tr td img {
 	width: 350px;
 	height: 400px;
-	padding-right:40px;
-	padding-left:30px;
-	padding-top:40px;
-	padding-bottom:30px;
+	padding: 40px;
+	display: block;
+	margin: auto;
 }
 div.table1 table tr td {
 	font-family:Franklin Gothic Medium;
@@ -97,6 +96,13 @@ div.table1 table tr td {
 	padding-top:30px;
 	margin: auto 0px;
 	height: 550px;
+
+}
+div.table1 table tr td p{
+	width:850px;
+	display: block;
+	margin:auto;
+	
 }
 div.tab-content div.table1 table tr td a{
 	text-decoration: none;
@@ -119,6 +125,7 @@ div.social div.icons a img{
 	left:5px;
 	float:left;
 	position:static;
+	
 }
 div.social div.icons table tr td p{
 	font-family:Gramond;
