@@ -91,7 +91,7 @@ div.table1 table tr td img {
 }
 div.table1 table tr td {
 	font-family:Franklin Gothic Medium;
-	font-size:14pt;
+	font-size:16pt;
 	padding-right:40px;
 	padding-top:30px;
 }
@@ -136,9 +136,8 @@ div.tab-content div.table2 table tr td{
 
 div.tab-content div.table2 table tr td p{
 	font-family:Franklin Gothic Medium;
-	font-size:14pt;
+	font-size:16pt;
 	text-align:center;
-	padding:5px;
 }
 
 div.tab-content div.table2 table{
@@ -148,7 +147,7 @@ div.tab-content div.table2 table{
 }
 div.tab-content div.table2 table tr td p{
 	border: 3px solid black;
-	width:600px;
+	width:800px;
 	height:300px;
 	margin: auto;
 	padding-top:30px;
