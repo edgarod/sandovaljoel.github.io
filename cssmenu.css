@@ -75,11 +75,12 @@ div.nav li > input:checked + label{
 div.nav li > input:checked ~ div.tab-content{
 	display:block;
 }
-
 div.table1 table{
 	width:85%;
-	margin:auto;
+	margin:auto auto;
 	padding:5px;
+	display:block;
+	height:550px;
 }
 div.table1 table tr td img {
 	width: 350px;
@@ -94,6 +95,8 @@ div.table1 table tr td {
 	font-size:16pt;
 	padding-right:40px;
 	padding-top:30px;
+	margin: auto 0px;
+	height: 550px;
 }
 div.tab-content div.table1 table tr td a{
 	text-decoration: none;
