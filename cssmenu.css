@@ -63,7 +63,6 @@ div.nav div.tab-content{
 	position:absolute;
 	left:5px;
 	height:605px;
-	
 	margin-top:10px;
 	width:100%;
 
@@ -76,11 +75,13 @@ div.nav li > input:checked ~ div.tab-content{
 	display:block;
 }
 div.table1 table{
-	width:85%;
-	margin:auto auto;
-	padding:5px;
+	width:1600px;
+	margin:0px auto;
 	display:block;
-	height:550px;
+	padding-top: 45px;
+	padding-bottom: 35px;
+	
+	
 }
 div.table1 table tr td img {
 	width: 350px;
@@ -88,20 +89,23 @@ div.table1 table tr td img {
 	padding: 40px;
 	display: block;
 	margin: auto;
+
 }
 div.table1 table tr td {
 	font-family:Franklin Gothic Medium;
 	font-size:16pt;
-	padding-right:40px;
+	padding-left:110px;
 	padding-top:30px;
-	margin: auto 0px;
-	height: 550px;
+	margin: auto;
+	
+	
 
 }
 div.table1 table tr td p{
-	width:850px;
+	width:650px;
 	display: block;
 	margin:auto;
+	
 	
 }
 div.tab-content div.table1 table tr td a{
